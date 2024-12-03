@@ -1,0 +1,75 @@
+Train Null Values:
+first_active_month    0
+card_id               0
+feature_1             0
+feature_2             0
+feature_3             0
+target                0
+dtype: int64
+
+Test Null Values:
+first_active_month    1
+card_id               0
+feature_1             0
+feature_2             0
+feature_3             0
+dtype: int64
+
+History Null Values:
+authorized_flag               0
+card_id                       0
+city_id                       0
+category_1                    0
+installments                  0
+category_3               178159
+merchant_category_id          0
+merchant_id              138481
+month_lag                     0
+purchase_amount               0
+purchase_date                 0
+category_2              2652864
+state_id                      0
+subsector_id                  0
+dtype: int64
+
+New Merchant Null Values:
+authorized_flag              0
+card_id                      0
+city_id                      0
+category_1                   0
+installments                 0
+category_3               55922
+merchant_category_id         0
+merchant_id              26216
+month_lag                    0
+purchase_amount              0
+purchase_date                0
+category_2              111745
+state_id                     0
+subsector_id                 0
+dtype: int64
+
+Merchants Null Values:
+merchant_id                        0
+merchant_group_id                  0
+merchant_category_id               0
+subsector_id                       0
+numerical_1                        0
+numerical_2                        0
+category_1                         0
+most_recent_sales_range            0
+most_recent_purchases_range        0
+avg_sales_lag3                    13
+avg_purchases_lag3                 0
+active_months_lag3                 0
+avg_sales_lag6                    13
+avg_purchases_lag6                 0
+active_months_lag6                 0
+avg_sales_lag12                   13
+avg_purchases_lag12                0
+active_months_lag12                0
+category_4                         0
+city_id                            0
+state_id                           0
+category_2                     11887
+dtype: int64
